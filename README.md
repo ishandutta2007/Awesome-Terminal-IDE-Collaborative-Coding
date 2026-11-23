@@ -61,93 +61,93 @@ The table below catalogs leading commercial and hosted SaaS platforms for remote
 
 ## 🛠️ Open-Source GitHub Projects
 
-Curated open-source terminal-native IDEs, cloud IDE distributions, terminal multiplexers, and pair programming tools, sorted in **descending order by GitHub star count** ⭐.
+Curated open-source terminal-native IDEs, cloud IDE distributions, terminal multiplexers, and pair programming tools, sorted in **descending order by GitHub Stars_Count** ⭐.
 
-- **[neovim/neovim](https://github.com/neovim/neovim)** [![GitHub stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers)  
+- **[neovim/neovim](https://github.com/neovim/neovim)** [![GitHub_Stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers)  
   ⚡ Vim-fork focused on extensibility and usability, featuring built-in Lua scripting, asynchronous LSP integration, floating windows, and extensible peer-to-peer collaborative editing plugins.
 
-- **[zed-industries/zed](https://github.com/zed-industries/zed)** [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
+- **[zed-industries/zed](https://github.com/zed-industries/zed)** [![GitHub_Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
   ⚡ High-performance, multiplayer-native code editor written in Rust with built-in real-time CRDT collaborative workspaces, integrated terminal sharing, voice channels, and Vim modal emulation.
 
-- **[coder/code-server](https://github.com/coder/code-server)** [![GitHub stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers)  
+- **[coder/code-server](https://github.com/coder/code-server)** [![GitHub_Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers)  
   🌐 Run VS Code on any remote Linux/macOS server and access it securely through any modern web browser or terminal wrapper with extension marketplace support.
 
-- **[daytonaio/daytona](https://github.com/daytonaio/daytona)** [![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
+- **[daytonaio/daytona](https://github.com/daytonaio/daytona)** [![GitHub_Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
   🤖 Open-source development environment manager and infrastructure engine designed to spin up, orchestrate, and standardize secure workspaces for human developers and autonomous coding agents.
 
-- **[termux/termux-app](https://github.com/termux/termux-app)** [![GitHub stars](https://img.shields.io/github/stars/termux/termux-app?style=social&color=white)](https://github.com/termux/termux-app/stargazers)  
+- **[termux/termux-app](https://github.com/termux/termux-app)** [![GitHub_Stars](https://img.shields.io/github/stars/termux/termux-app?style=social&color=white)](https://github.com/termux/termux-app/stargazers)  
   📱 Powerful Android terminal emulator and Linux environment enabling full mobile terminal IDE setups with package management, Clang/Rust compilers, and SSH access.
 
-- **[helix-editor/helix](https://github.com/helix-editor/helix)** [![GitHub stars](https://img.shields.io/github/stars/helix-editor/helix?style=social&color=white)](https://github.com/helix-editor/helix/stargazers)  
+- **[helix-editor/helix](https://github.com/helix-editor/helix)** [![GitHub_Stars](https://img.shields.io/github/stars/helix-editor/helix?style=social&color=white)](https://github.com/helix-editor/helix/stargazers)  
   🦀 Post-modern modal terminal text editor written in Rust with built-in Tree-sitter syntax highlighting, multi-selection editing, and zero-config Language Server Protocol (LSP) integration.
 
-- **[lapce/lapce](https://github.com/lapce/lapce)** [![GitHub stars](https://img.shields.io/github/stars/lapce/lapce?style=social&color=white)](https://github.com/lapce/lapce/stargazers)  
+- **[lapce/lapce](https://github.com/lapce/lapce)** [![GitHub_Stars](https://img.shields.io/github/stars/lapce/lapce?style=social&color=white)](https://github.com/lapce/lapce/stargazers)  
   🚀 Lightning-fast, open-source code editor written in Rust featuring GPU-accelerated rendering, modal editing, built-in remote SSH execution, and WASM plugin support.
 
-- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** [![GitHub stars](https://img.shields.io/github/stars/zellij-org/zellij?style=social&color=white)](https://github.com/zellij-org/zellij/stargazers)  
+- **[zellij-org/zellij](https://github.com/zellij-org/zellij)** [![GitHub_Stars](https://img.shields.io/github/stars/zellij-org/zellij?style=social&color=white)](https://github.com/zellij-org/zellij/stargazers)  
   🪟 A modern terminal workspace and multiplexer written in Rust featuring floating panes, tab layouts, WebAssembly plugins, and multi-user terminal session sharing.
 
-- **[micro-editor/micro](https://github.com/micro-editor/micro)** [![GitHub stars](https://img.shields.io/github/stars/micro-editor/micro?style=social&color=white)](https://github.com/micro-editor/micro/stargazers)  
+- **[micro-editor/micro](https://github.com/micro-editor/micro)** [![GitHub_Stars](https://img.shields.io/github/stars/micro-editor/micro?style=social&color=white)](https://github.com/micro-editor/micro/stargazers)  
   🖱️ Modern, intuitive terminal-based text editor with standard desktop keybindings (Ctrl+C, Ctrl+V, Ctrl+S), full mouse support, multi-cursor editing, and Lua plugin scripting.
 
-- **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)  
+- **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)  
   🏛️ Open-source platform and framework for building custom, vendor-neutral IDEs and tools for browser and desktop, compatible with the VS Code extension protocol and multi-user cloud workspaces.
 
-- **[yudai/gotty](https://github.com/yudai/gotty)** [![GitHub stars](https://img.shields.io/github/stars/yudai/gotty?style=social&color=white)](https://github.com/yudai/gotty/stargazers)  
+- **[yudai/gotty](https://github.com/yudai/gotty)** [![GitHub_Stars](https://img.shields.io/github/stars/yudai/gotty?style=social&color=white)](https://github.com/yudai/gotty/stargazers)  
   📡 Simple Go-based CLI tool that shares arbitrary terminal applications, shells, or tmux sessions as web-accessible applications over HTTP/WebSockets.
 
-- **[coder/coder](https://github.com/coder/coder)** [![GitHub stars](https://img.shields.io/github/stars/coder/coder?style=social&color=white)](https://github.com/coder/coder/stargazers)  
+- **[coder/coder](https://github.com/coder/coder)** [![GitHub_Stars](https://img.shields.io/github/stars/coder/coder?style=social&color=white)](https://github.com/coder/coder/stargazers)  
   🏢 Self-hosted enterprise cloud development environment platform using Terraform to provision remote workspaces across bare metal, Docker, Kubernetes, and public clouds.
 
-- **[loft-sh/devpod](https://github.com/loft-sh/devpod)** [![GitHub stars](https://img.shields.io/github/stars/loft-sh/devpod?style=social&color=white)](https://github.com/loft-sh/devpod/stargazers)  
+- **[loft-sh/devpod](https://github.com/loft-sh/devpod)** [![GitHub_Stars](https://img.shields.io/github/stars/loft-sh/devpod?style=social&color=white)](https://github.com/loft-sh/devpod/stargazers)  
   📦 Client-only, unopinionated open-source tool to spin up reproducible `devcontainer.json` environments on any cloud, Kubernetes cluster, or remote SSH host with zero vendor lock-in.
 
-- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** [![GitHub stars](https://img.shields.io/github/stars/tsl0922/ttyd?style=social&color=white)](https://github.com/tsl0922/ttyd/stargazers)  
+- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** [![GitHub_Stars](https://img.shields.io/github/stars/tsl0922/ttyd?style=social&color=white)](https://github.com/tsl0922/ttyd/stargazers)  
   🌐 Lightweight C-based command-line tool for sharing your terminal over the web via WebSockets with libuv and Xterm.js for high-throughput CLI collaboration.
 
-- **[mawww/kakoune](https://github.com/mawww/kakoune)** [![GitHub stars](https://img.shields.io/github/stars/mawww/kakoune?style=social&color=white)](https://github.com/mawww/kakoune/stargazers)  
+- **[mawww/kakoune](https://github.com/mawww/kakoune)** [![GitHub_Stars](https://img.shields.io/github/stars/mawww/kakoune?style=social&color=white)](https://github.com/mawww/kakoune/stargazers)  
   🎯 Modal terminal code editor implementing interactive selections and a client-server architecture that natively allows multiple terminal clients to edit the same file simultaneously.
 
-- **[sinelaw/fresh](https://github.com/sinelaw/fresh)** [![GitHub stars](https://img.shields.io/github/stars/sinelaw/fresh?style=social&color=white)](https://github.com/sinelaw/fresh/stargazers)  
+- **[sinelaw/fresh](https://github.com/sinelaw/fresh)** [![GitHub_Stars](https://img.shields.io/github/stars/sinelaw/fresh?style=social&color=white)](https://github.com/sinelaw/fresh/stargazers)  
   🌿 Modern, high-performance terminal IDE and text editor written in Rust with standard non-modal keybindings, LSP integration, multi-cursors, and Deno TypeScript plugins.
 
-- **[gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)** [![GitHub stars](https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social&color=white)](https://github.com/gitpod-io/openvscode-server/stargazers)  
+- **[gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)** [![GitHub_Stars](https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social&color=white)](https://github.com/gitpod-io/openvscode-server/stargazers)  
   🖥️ Upstream distribution of VS Code running as a remote server accessible through any modern web browser from any device, maintained for self-hosted container deployments.
 
-- **[tmate-io/tmate](https://github.com/tmate-io/tmate)** [![GitHub stars](https://img.shields.io/github/stars/tmate-io/tmate?style=social&color=white)](https://github.com/tmate-io/tmate/stargazers)  
+- **[tmate-io/tmate](https://github.com/tmate-io/tmate)** [![GitHub_Stars](https://img.shields.io/github/stars/tmate-io/tmate?style=social&color=white)](https://github.com/tmate-io/tmate/stargazers)  
   🤝 Instant terminal sharing fork of `tmux` engineered for secure peer-to-peer pairing over SSH or encrypted web links with read-write and read-only token controls.
 
-- **[butlerx/wetty](https://github.com/butlerx/wetty)** [![GitHub stars](https://img.shields.io/github/stars/butlerx/wetty?style=social&color=white)](https://github.com/butlerx/wetty/stargazers)  
+- **[butlerx/wetty](https://github.com/butlerx/wetty)** [![GitHub_Stars](https://img.shields.io/github/stars/butlerx/wetty?style=social&color=white)](https://github.com/butlerx/wetty/stargazers)  
   💻 Terminal-in-browser emulator over HTTP/HTTPS built with Node.js and WebSockets, enabling remote shell pair programming from lightweight web clients.
 
-- **[jmacdonald/amp](https://github.com/jmacdonald/amp)** [![GitHub stars](https://img.shields.io/github/stars/jmacdonald/amp?style=social&color=white)](https://github.com/jmacdonald/amp/stargazers)  
+- **[jmacdonald/amp](https://github.com/jmacdonald/amp)** [![GitHub_Stars](https://img.shields.io/github/stars/jmacdonald/amp?style=social&color=white)](https://github.com/jmacdonald/amp/stargazers)  
   ⚡ Lightweight modal text editor for the terminal written in Rust, inspired by Vi/Vim with built-in fuzzy file navigation, symbol jumping, and zero configuration required.
 
-- **[curlpipe/ox](https://github.com/curlpipe/ox)** [![GitHub stars](https://img.shields.io/github/stars/curlpipe/ox?style=social&color=white)](https://github.com/curlpipe/ox/stargazers)  
+- **[curlpipe/ox](https://github.com/curlpipe/ox)** [![GitHub_Stars](https://img.shields.io/github/stars/curlpipe/ox?style=social&color=white)](https://github.com/curlpipe/ox/stargazers)  
   🐂 Fast, customizable terminal text editor built in Rust featuring syntax highlighting, multi-cursor editing, split views, and Lua-based configuration.
 
-- **[zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)** [![GitHub stars](https://img.shields.io/github/stars/zenbu-labs/terminal-code?style=social&color=white)](https://github.com/zenbu-labs/terminal-code/stargazers)  
+- **[zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)** [![GitHub_Stars](https://img.shields.io/github/stars/zenbu-labs/terminal-code?style=social&color=white)](https://github.com/zenbu-labs/terminal-code/stargazers)  
   🖼️ Runs full VS Code directly inside modern GPU-accelerated terminal emulators using the Kitty graphics protocol and `code-server` with pane splitting and diff reviews.
 
-- **[teamtype/teamtype](https://github.com/teamtype/teamtype)** [![GitHub stars](https://img.shields.io/github/stars/teamtype/teamtype?style=social&color=white)](https://github.com/teamtype/teamtype/stargazers)  
+- **[teamtype/teamtype](https://github.com/teamtype/teamtype)** [![GitHub_Stars](https://img.shields.io/github/stars/teamtype/teamtype?style=social&color=white)](https://github.com/teamtype/teamtype/stargazers)  
   👥 Peer-to-peer, editor-agnostic collaborative editing daemon that enables developers to collaboratively edit local files across different editors simultaneously with live cursor sync.
 
-- **[jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim)** [![GitHub stars](https://img.shields.io/github/stars/jbyuki/instant.nvim?style=social&color=white)](https://github.com/jbyuki/instant.nvim/stargazers)  
+- **[jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/jbyuki/instant.nvim?style=social&color=white)](https://github.com/jbyuki/instant.nvim/stargazers)  
   ⚡ Real-time collaborative editing plugin for Neovim written in Lua, providing built-in server/client synchronization, remote cursor rendering, and independent undo trees.
 
-- **[owenthereal/upterm](https://github.com/owenthereal/upterm)** [![GitHub stars](https://img.shields.io/github/stars/owenthereal/upterm?style=social&color=white)](https://github.com/owenthereal/upterm/stargazers)  
+- **[owenthereal/upterm](https://github.com/owenthereal/upterm)** [![GitHub_Stars](https://img.shields.io/github/stars/owenthereal/upterm?style=social&color=white)](https://github.com/owenthereal/upterm/stargazers)  
   🔒 Open-source instant terminal-sharing tool engineered for remote pair programming, allowing developers to share terminal sessions securely over SSH via Upterm public or self-hosted relays.
 
-- **[sahilatahar/Code-Sync](https://github.com/sahilatahar/Code-Sync)** [![GitHub stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=social&color=white)](https://github.com/sahilatahar/Code-Sync/stargazers)  
+- **[sahilatahar/Code-Sync](https://github.com/sahilatahar/Code-Sync)** [![GitHub_Stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=social&color=white)](https://github.com/sahilatahar/Code-Sync/stargazers)  
   💬 Real-time collaborative web code editor built with React, Socket.IO, and Docker featuring dynamic room generation, syntax highlighting, and live group chat.
 
-- **[azratul/live-share.nvim](https://github.com/azratul/live-share.nvim)** [![GitHub stars](https://img.shields.io/github/stars/azratul/live-share.nvim?style=social&color=white)](https://github.com/azratul/live-share.nvim/stargazers)  
+- **[azratul/live-share.nvim](https://github.com/azratul/live-share.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/azratul/live-share.nvim?style=social&color=white)](https://github.com/azratul/live-share.nvim/stargazers)  
   🤝 Real-time pair programming and collaborative editing plugin for Neovim inspired by VS Code Live Share, enabling live buffer synchronization across developers.
 
-- **[termide/termide](https://github.com/termide/termide)** [![GitHub stars](https://img.shields.io/github/stars/termide/termide?style=social&color=white)](https://github.com/termide/termide/stargazers)  
+- **[termide/termide](https://github.com/termide/termide)** [![GitHub_Stars](https://img.shields.io/github/stars/termide/termide?style=social&color=white)](https://github.com/termide/termide/stargazers)  
   🧰 All-in-one terminal workspace for desktops and servers: LSP-enabled editor, dual-pane SFTP/FTP file manager, terminal shell, Git client, database viewer, and coding agent in a static Rust binary.
 
-- **[pairpad/pairpad](https://github.com/pairpad/pairpad)** [![GitHub stars](https://img.shields.io/github/stars/pairpad/pairpad?style=social&color=white)](https://github.com/pairpad/pairpad/stargazers)  
+- **[pairpad/pairpad](https://github.com/pairpad/pairpad)** [![GitHub_Stars](https://img.shields.io/github/stars/pairpad/pairpad?style=social&color=white)](https://github.com/pairpad/pairpad/stargazers)  
   📝 Collaborative code annotation and pair programming tool designed to streamline developer onboarding through shared interactive walkthroughs.
 
 ---
@@ -184,7 +184,7 @@ Your encouragement keeps this ecosystem thriving and up-to-date! 🚀
 1. 🍴 Fork this repository.
 2. 📝 Add your tool, platform, or project to `README.md` in the appropriate section.
    - For SaaS products: provide company scale, exact starting pricing tier, specific free tier limits, and core capabilities.
-   - For Open-Source projects: provide the repository link, star badge (`style=social&color=white`), and factual description.
+   - For Open-Source projects: provide the repository link, Stars_Badge (`style=social&color=white`), and factual description.
 3. 🔍 Keep entries factual, concise, and linked to official documentation or source repositories.
 4. 🚀 Submit a Pull Request with a clear description of the addition.
 
